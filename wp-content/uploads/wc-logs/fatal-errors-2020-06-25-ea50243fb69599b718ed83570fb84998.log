@@ -1,0 +1,18 @@
+2020-06-25T11:46:29+00:00 CRITICAL Uncaught Error: Call to undefined function wp_header() in /home/soltee/projects/tech/wp-content/themes/tech/index.php:2
+Stack trace:
+#0 /home/soltee/projects/tech/wp-includes/template-loader.php(106): include()
+#1 /home/soltee/projects/tech/wp-blog-header.php(19): require_once('/home/soltee/pr...')
+#2 /home/soltee/projects/tech/index.php(17): require('/home/soltee/pr...')
+#3 {main}
+  thrown in /home/soltee/projects/tech/wp-content/themes/tech/index.php on line 2
+
+2020-06-25T12:34:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/soltee/projects/tech/wp-content/themes/tech/functions.php on line 95
+
+2020-06-25T13:02:56+00:00 CRITICAL syntax error, unexpected ':', expecting ';' in /home/soltee/projects/tech/wp-content/themes/tech/header.php on line 68
+
+2020-06-25T13:03:48+00:00 CRITICAL syntax error, unexpected ':', expecting ';' in /home/soltee/projects/tech/wp-content/themes/tech/header.php on line 70
+
+2020-06-25T13:03:50+00:00 CRITICAL syntax error, unexpected ':', expecting ';' in /home/soltee/projects/tech/wp-content/themes/tech/header.php on line 70
+
+2020-06-25T13:03:51+00:00 CRITICAL syntax error, unexpected ':', expecting ';' in /home/soltee/projects/tech/wp-content/themes/tech/header.php on line 70
+

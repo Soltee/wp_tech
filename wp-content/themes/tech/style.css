@@ -1,0 +1,29 @@
+/*
+*
+
+Theme Name: Tech
+Author:Prabin
+Version:0.0.1
+
+*/
+
+li {
+    list-style: none;
+}
+
+.shop {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 6px;
+}
+
+.shop_sidebar {
+    width: 400px;
+    padding: 6px;
+}
